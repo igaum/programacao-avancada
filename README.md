@@ -1,8 +1,12 @@
-# programacao-avancada
+# Programacao Avancada
 
-Estudo dirigido referente ao segundo semestre da disciplina Programação Avançada
+###### Estudo dirigido referente ao segundo semestre da disciplina Programação Avançada
 
-Aluno: Igor Felipe Kunrath 
-R.A.: 2017106556 
-
-Exercício 01, 02, 03 e 05 completos com todos os requisitos e atividades
+**Aluno**: Igor Felipe Kunrath <p>
+**R.A.**: 2017106556 
+<p>
+**projetos**:
+<p>
+1. "Sobrecarga de Operadores, Funcoes amigas e Excecoes" - Exercícios 01, 02, e 03, todos completos;
+2. "Templates" - Exercício 04.
+3. "STL" - Exercício 05.
